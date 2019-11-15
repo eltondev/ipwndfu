@@ -131,3 +131,5 @@ chronic, CPICH, ius, MuscleNerd, Planetbeing, pod2g, posixninja, et al. for 24Kp
 pod2g for steaks4uce exploit
 
 walac for pyusb
+
+woonull jailbreak (jailbreak improvement to run on Brazilian devices)
